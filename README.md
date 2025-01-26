@@ -1,6 +1,6 @@
 ![logo](https://github.com/SagSalvatore/SagSalvatore/blob/main/Screenshot%202024-10-06%20010928.jpg)
 <h1 align="center">Hi 👋, I'm Sagar Singh</h1>
-<h3 align="center">7 years of Non-IT experience, now transitioning into the Data Science/Analytics world. My journey from mastering Excel (VBA) to exploring the data industry, driven by a growing passion for data and analytics."</h3>
+<h3 align="center">7 years of experience, now transitioning and upskilling into the Data Science/Analytics world. My journey from mastering Excel (VBA),Research to exploring the data industry, driven by a growing passion for data and analytics."</h3>
 <img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/4d5a7e_959bde7f276144d4b9607df8d598599d~mv2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagsalvatore&label=Profile%20views&color=0e75b6&style=flat" alt="sagsalvatore" /> </p>
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SagSalvatore](https://github.com/SagSalvatore)
 
-- 📝 I regularly write articles on [Linkedin](Linkedin)
+- 📝 Connecting me on professional world-> [Linkedin](Linkedin)
 
 - 📫 How to reach me **sagsingh0508@gmail.com**
 
