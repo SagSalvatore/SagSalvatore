@@ -1,13 +1,13 @@
 ![logo](https://github.com/SagSalvatore/SagSalvatore/blob/main/Screenshot%202024-10-06%20010928.jpg)
 <h1 align="center">Hi 👋, I'm Sagar Singh</h1>
-<h3 align="center">7 years of experience in data analytics/backend-engineering/data science, now transitioning and upskilling into the Gen-Ai and agentic ai world. My journey from mastering Excel (VBA developer) to exploring the data industry, driven by a growing passion for data and analytics and buidling backend systems."</h3>
+<h3 align="center">7 years of experience in data analytics/backend-engineering/data science, now transitioning and upskilling into the Gen-Ai and agentic ai world. My journey started from mastering Excel (VBA developer) to exploring the data industry, driven by a growing passion for data and analytics and with buidling backend systems."</h3>
 <img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/4d5a7e_959bde7f276144d4b9607df8d598599d~mv2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagsalvatore&label=Profile%20views&color=0e75b6&style=flat" alt="sagsalvatore" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagsalvatore" alt="sagsalvatore" /></a> </p>
 
-- 🌱 I’m currently learning **Python(DSA),SQL,R,Machine Learning,DeepLearning,NLP,Scala,Big Data,Hadoop,Hive,AWS,Apache,Spark,Snowflake,Azure databrick,GCP**
+- 🌱 **Python(DSA),SQL,Fastapi,Machine Learning,DeepLearning,NLP,Scala,Big Data,Hadoop,Hive,AWS,Apache,Spark,Snowflake,Azure databrick,GCP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SagSalvatore](https://github.com/SagSalvatore)
 
